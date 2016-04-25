@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./detabulisalimen01desjgoog_0133.png"; bbox 0 0 5080 6254; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1638 2298 3234 2471">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1638 2298 3234 2471">
+     <span class='ocr_line' id='line_1_1' title="bbox 1638 2298 3234 2471; baseline -0.001 -37"><span class='ocrx_word' id='word_1_1' title='bbox 1638 2298 2300 2471; x_wconf 72' lang='lat' dir='ltr'><strong>TABVLA</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 2420 2298 3234 2436; x_wconf 79' lang='lat' dir='ltr'><strong>PAGORVM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1240 2666 3387 2835">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1240 2666 3387 2835">
+     <span class='ocr_line' id='line_1_2' title="bbox 1240 2666 3387 2835; baseline 0.001 -6"><span class='ocrx_word' id='word_1_3' title='bbox 1240 2676 1251 2693; x_wconf 82' lang='grc'><strong><em>’</em></strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1504 2726 2477 2833; x_wconf 77' lang='lat' dir='ltr'><strong>1NscR1PT10le</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 2566 2666 3387 2835; x_wconf 76' lang='lat' dir='ltr'><strong>VELmATlvM</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
